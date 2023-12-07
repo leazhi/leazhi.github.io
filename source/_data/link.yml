@@ -1,0 +1,106 @@
+- class_name: 域名服务
+  class_desc: 一些不错的余名服务网站
+  link_list:
+    - name: CLOUDFLARE
+      link: https://www.cloudflare.com/
+      avatar: https://hexo.linuser.com/static/img/logo_images/cloudflare.png
+      descr: 《Cloudflare》 是一个知名的云服务提供商和网络安全公司。它提供了一系列的网络基础设施服务，旨在提高网站的性能、安全性和可靠性。其服务包括内容分发网络（CDN）、DDoS 攻击防护、防火墙、反向代理、域名注册等。 
+
+    - name: NameSilo
+      link: https://www.namesilo.com/
+      avatar: https://hexo.linuser.com/static/img/logo_images/namesilo.svg
+      descr: 《NameSilo》是一个知名的域名注册和管理服务提供商。它提供了简单、可靠和经济实惠的域名注册服务。通过 Namesilo，您可以注册各种顶级域名（TLDs），如.com、.net、.org等，并管理您的域名配置和设置。 
+
+    - name: GoDaddy
+      link: https://www.godaddy.com/zh-sg/zh
+      avatar: https://hexo.linuser.com/static/img/logo_images/godaddy.png
+      descr: 《GoDaddy》是一个知名的域名注册和网络托管服务提供商。它 提供了广泛的互联网服务，包括域名注册、网站托管、虚拟私有服务器（VPS）、云服务器、电子邮件服务、在线商店等。 
+
+- class_name: hexo 相关
+  class_desc: 部署 Hexo 博客系统所需的站点组合
+  link_list:
+    - name: Hexo
+      link: https://hexo.io/zh-tw/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、簡單且強大的網誌框架
+    - name: hexo-theme-butterfly
+      link: https://github.com/jerryc127/hexo-theme-butterfly
+      avatar: https://file.crazywong.com/gh/jerryc127/butterfly_cdn@2.1.0/top_img/index.jpg
+      descr: 一款优秀的 hexo 主题包，也是本站使用的主题
+    - name: butterfly 主题配置教程
+      link: https://butterfly.js.org/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: butterfly 作者出的主题教程，基本上你能想到的配置这里都有
+    - name: FONTAWESOME
+      link: https://fontawesome.com/icons
+      avatar: https://fontawesome.com/favicon.ico
+      descr: 网站导航栏图标网站
+    - name: Pexels
+      link: https://www.pexels.com/zh-cn/search/%E7%BD%91%E7%AB%99%E8%83%8C%E6%99%AF/
+      avatar: https://www.pexels.com/assets/static/images/meta/favicon.ico
+      descr: 适用于网站开发或者网站、博客背景图素材
+    - name: Alphacoders
+      link: https://wall.alphacoders.com/by_collection.php?id=332&lang=Chinese
+      avatar: https://static.alphacoders.com/alpha_system_360.png
+      descr: 适用于Linux、MAC 及 windows 桌面环境的高清背景图片下载网站
+
+- class_name: 技术博客
+  class_desc: 一些值的被收藏的技术站点
+  link_list: 
+    - name: server-world
+      link: https://www.server-world.info/en/
+      avatar: https://hexo.linuser.com/static/img/logo_images/server-world.png
+      descr: server-world 是一个提供有关服务器和系统管理的技术指南和教程的网站。该网站提供了广泛的主题，包括 Linux、Windows、虚拟化、网络和安全等。它的目标是帮助用户了解和学习有关服务器和系统管理的知识，以及解决常见的技术问题。在该站点上，上，您可以找到详细的安装指南、配置说明、故障排除方法和最佳实践等内容。这些内容以易于理解和实践的方式呈现，适用于各种技术水平的读者。 
+
+    - name: 鸟哥私房菜
+      link: https://linux.vbird.org/
+      descr: 《鸟哥私房菜》是一个提供关于 Linux 操作系统的综合性技术指南和教程的网站。该网站由台湾的知名技术专家鸟哥（Vbird）创建和维护。它提供了广泛的 Linux 相关主题，包括操作系统安装、配置、网络、系统管理、Shell 脚本编程等内容。特点之一是其深入而易于理解的教学风格。它以简洁明了的语言和实际案例，向读者解释了 Linux 操作系统的各个方面。无论您是初学者还是有经验的 Linux 用户，都可以从中获得有价值的知识和技巧。  
+
+- class_name: 服务器租赁
+  class_desc: 一些比较不错的服务器租赁服务商
+  link_list:
+    - name: 阿里云
+      link: https://www.aliyun.com/
+      avatar: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPYKogdZUWbH019emPWyz47HO_MszncTvpfDqGwO2Lj6wtPkTS9DwrUJPKr9_BsMvCUKM&usqp=CAU
+      descr: 作为全球领先的云计算及人工智能科技公司，我们坚持让计算成为公共服务，助力全球客户加速价值创新。
+    - name: 腾讯云
+      link: https://cloud.tencent.com/
+      avatar: https://android-artworks.25pp.com/fs08/2021/04/27/0/110_dc1dd5cdb0deddd9f3c010418f8c3dde_con_130x130.png
+      descr: 腾讯云，提供全球领先的云计算、大数据、人工智能等技术产品与服务，以卓越的科技能力打造丰富的行业解决方案，构建开放共赢的合作生态，推动产业互联网建设，助力各行各业实现数字化升级。
+    - name: 华为云
+      link: https://www.huaweicloud.com/
+      avatar: https://ts1.cn.mm.bing.net/th/id/R-C.eb837b96303434d239d937a83bde93ff?rik=wuEs5%2fXEXOxsRw&riu=http%3a%2f%2fpic.downcc.com%2fupload%2f2018-3%2f2018320918485393.png&ehk=h5pFiggx5AnksJWF82E0Rgy17QHQMlOzjA6Apib%2fhNc%3d&risl=&pid=ImgRaw&r=0
+      descr: 一切皆服务，共建智能世界云底座
+    - name: Vultr
+      link: https://www.vultr.com/
+      avatar: https://static-00.iconduck.com/assets.00/vultr-icon-2048x2048-jocphszc.png
+      descr: Vultr是一家创建于2014年的VPS提供商，总部坐落于美国新泽西州。作为VPS界的新秀，Vultr发展迅猛、有口皆碑，在中国大陆地区也拥有广泛的用户。Vultr在全球各地部署有16机房，其中亚太地区部署了东京、新加坡、悉尼三处机房，与大陆的连接速度都不错，位于美国西海岸的硅谷、洛杉矶机房也深受大陆用户的青睐。
+    - name: 华纳云
+      link: https://www.hncloud.com/hk_high_defence.html
+      avatar: https://www.hncloud.com/statics/web/front_end/images/home/logo1.png
+      descr: 华纳云是一家专业的全球数据中心基础服务提供商，总部在香港，隶属于香港联合通讯国际有限公司， 是APNIC 和 ARIN 会员单位。主要提供数据中心基础服务、互联网业务解决方案， 以及专属服务器租用、专属服务器托管、云服务器、云计算、云安全技术研发等产品和服务。 目前，华纳云已凝聚起港内领先的网络、开发和运维团队，通过热线电话、 在线咨询等多种沟通渠道为数千家将网站和应用托管在华纳云平台的企业级客户提供7*24技术支持。
+    - name: 筋斗云
+      link: https://www.jindouyun.cn/
+      avatar: https://cloudcache.jindouyun.cn/jdcloud/assets/img/demo-content/logo-white.svg
+      descr: 这是广东江门的一家做云服务器公司。公司目前有大陆、香港、日本和美国4个数据中心， 产品涵盖弹性服务器、轻量应用服务器、云虚拟主机和独立物理服务器4个层面.优势：价格便宜，贷款够大，有技术支持。
+
+
+- class_name: 影视
+  class_desc: 比较OK的影视站点
+  link_list:
+    - name: YouTube
+      link: https://www.youtube.com/
+      avatar: https://hexo.linuser.com/static/img/logo_images/youtube.avif
+      descr: 視頻網站
+
+    - name: 大米星球
+      link: https://dmx1.vip/
+      avatar: https://ugc.hitv.com/1/22101302355740A2E346E1415C87955C155B224B5Qzkx/lXQgtD0.png
+      descr: 资源更新比较及时的免费影视站点
+
+    - name: 欧乐影院
+      link: https://www.olevod.com/
+      avatar: https://static.olelive.com/upload/site/20201117-1/d2035d18801242fc62991b32d6366bf8.png
+      descr: 以前在外面工作常用的看电影网站
+
+
