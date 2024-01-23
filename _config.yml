@@ -104,7 +104,7 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
+  type: https
   repository: https://github.com/leazhi/hexo.github.io.git
   branch: master
 
